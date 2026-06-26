@@ -1,0 +1,73 @@
+Methodology Document (Manual Research Style)
+1. City & Segment Selection
+I chose Hyderabad because it is a major hub for biotech, pharma, specialty chemicals, and medical devices, with strong R&D presence in Genome Valley.
+
+I focused on Basket A (Specialty Biotech, Diagnostics, Chemicals, Performance Chemicals) and Basket B (Medical Devices, Sensors, Animal Health) since these industries show clear differentiation, growth signals, and structured operations.
+
+2. Research Process
+I followed a manual research workflow to identify companies:
+
+Initial Scoping
+
+Used Google search with keywords like “biotech companies Hyderabad,” “specialty chemicals Genome Valley,” “medical devices Hyderabad”.
+
+Cross-checked results with industry directories (e.g., Pharmabiz listings, CII Hyderabad members, Genome Valley company lists).
+
+Company Verification
+
+Visited each company’s official website to confirm they are producers (E1) with in-house facilities.
+
+Checked location (E2) to ensure operational presence in Hyderabad (not just sales offices).
+
+Evidence Collection
+
+Looked for patents, certifications, R&D centres, ERP/SAP mentions, hiring activity on LinkedIn, and expansion news.
+
+Verified leadership background (science-founder vs operator-founder) via LinkedIn profiles, press releases, and company bios.
+
+Scoring (C3–C8)
+
+Applied the Federer scoring rubric:
+
+C3 Differentiation → patents, proprietary products, specialized equipment.
+
+C4 Decision-Maker Quality → founder pedigree (PhD/IIT/IISc) or operator systems thinking.
+
+C5 Growing Sector → tailwinds like PLI schemes, Make-in-India, China+1.
+
+C6 Growth Signals → hiring, facility expansion, certifications, updated websites.
+
+C7 Systems Maturity → ERP/SAP, dashboards, structured costing models.
+
+C8 Leadership Succession → gen-2 involvement, professional managers, independent directors.
+
+Fail List Documentation
+
+Excluded companies that were service-only labs, PE-owned, subsidiaries of large groups, or generic pharma producers.
+
+Example: Novopor Advanced Science (Bain Capital-owned) → fails Federer test due to institutional control.
+
+3. Sources Used
+Company websites (for products, facilities, certifications).
+
+LinkedIn (for hiring signals, ERP mentions, leadership backgrounds).
+
+News portals (Business Standard, Pharmabiz, Economic Times) for expansion announcements.
+
+Government registries (MCA filings, DSIR recognition, USFDA/EU-GMP approvals).
+
+Industry associations (CII Hyderabad, Pharmexcil, Genome Valley directories).
+
+4. Learnings
+Hyderabad has a dense cluster of biotech and pharma companies, many with DSIR-recognized R&D centres and global certifications.
+
+Specialty producers (biotech, diagnostics, chemicals, MedTech) show clear Federer traits: growth mindset, structured systems, and promoter-driven leadership.
+
+Roughly 30–40% of companies researched failed E1/E2 gates (service labs, traders, PE-owned), confirming the assignment’s expected yield.
+
+5. Output
+Final CSV includes 25 companies with detailed scoring and evidence.
+
+Fail cases are documented separately with reasoning.
+
+Personalization hooks highlight unique, recent achievements (e.g., Covaxin development, Genome Valley expansions, CE approvals).

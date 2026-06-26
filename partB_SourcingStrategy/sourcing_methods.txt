@@ -1,0 +1,32 @@
+Sourcing Methods
+To find Federer-profile companies across India, I would use:
+
+Government & Regulatory Databases
+
+MCA (Ministry of Corporate Affairs) → check filings for revenue bands, leadership succession.
+
+DSIR-recognized R&D centres → signals IP-based differentiation.
+
+USFDA/EU-GMP approval lists → identify specialty pharma/biotech producers.
+
+PLI scheme beneficiaries → companies in growth sectors with government tailwinds.
+
+Industry Associations & Directories
+
+Pharmexcil, CII, FICCI, ASSOCHAM → membership lists of specialty producers.
+
+Genome Valley directory (Hyderabad), Biotech Park directories (Pune, Bengaluru) → concentrated clusters.
+
+Trade Shows & Expos
+
+BioAsia (Hyderabad), India Pharma Expo, ChemExpo India, Medical Device Expo → exhibitors are typically differentiated producers.
+
+LinkedIn & Job Portals
+
+Search for companies with ERP/SAP hiring, R&D roles, plant expansion jobs → signals systems maturity and growth.
+
+Export Data
+
+DGFT export-import database → specialty exporters in chemicals, biotech, MedTech.
+
+Limitations: Some data is outdated, not all companies disclose revenue, and smaller specialty producers may not appear in mainstream directories. Manual verification is always required.

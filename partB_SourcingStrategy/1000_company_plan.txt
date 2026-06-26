@@ -1,0 +1,46 @@
+# 1000-Company Scale-Up Proposal
+
+Objective: Build a list of 1000 ICP-qualified companies within one month.
+
+
+## Plan
+
+### Universe Building
+- Collect raw lists from **MCA filings, DSIR-recognized R&D centres, Pharmexcil, Genome Valley directories, trade expos**.
+- Scrape exhibitor directories and government databases.
+- Expected universe: ~3000 companies.
+
+### Automated Filtering
+- Apply **E1/E2 gates** using scraping + AI prompts:
+  - E1 → check for “manufacturing facility,” “plant,” “R&D centre.”
+  - E2 → confirm India operational presence.
+- Narrow down to ~1500 companies.
+
+### Federer Scoring Automation
+- Use AI + scripts to tag evidence for **C3–C8**:
+  - Patents → Google Patents, DSIR.
+  - Decision-maker pedigree → LinkedIn.
+  - Growth signals → hiring data, press releases.
+  - Systems maturity → ERP/SAP mentions in job postings.
+- Expected yield: ~1000 companies.
+
+### Quality Control
+- Manual review of borderline cases (score 40–59).
+- Remove PE-owned, subsidiaries, traders.
+- Finalize **1000 ICP-qualified companies**.
+- Deliver CSV + methodology + fail list.
+
+
+## Realistic Yield
+- Start: 3000 raw → Filter: 1500 → Score: 1000 → Final: 1000 ICP-qualified.
+- Yield rate ~33%.
+
+
+
+## Tools & Sources
+- **Government**: MCA, DSIR, USFDA/EU-GMP lists, PLI scheme beneficiaries.
+- **Industry**: Pharmexcil, CII, FICCI, trade expos (BioAsia, ChemExpo).
+- **Digital**: LinkedIn hiring data, company websites, AI scraping scripts.
+
+
+
